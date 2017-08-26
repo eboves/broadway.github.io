@@ -1,3 +1,48 @@
 body{
-	background-color: pink;
+	font-family: Helvetica;
+	text-align: center;
+}
+h1{
+	font-weight: bold;
+	color: white;
+	font-size: 70px;
+}
+a{
+	font-size: 18px;
+	color: white;
+}
+h2{
+	font-weight: bold;
+	font-size: 32px;
+	color: dimgray;
+}
+h3{
+	font-size: 23px;
+	font-weight: bold;
+	color: dimgray;
+}
+p{
+	font-size: 14px;
+	color: dimgray;
+}
+span{
+	font-size: 11px;
+	color: white;
+}
+img{
+	color: dimgray;
+}
+.design{
+	background-image: url("../images/flatiron.png");
+	background-repeat: no-repeat;
+    background-position: center; 
+}
+#designNY{
+	font-size: 23px;
+	color: white;
+	font-weight: bold;
+}
+#footer{
+	background-color: dimgray;
+	text-align: left;
 }
